@@ -1,3 +1,2 @@
-# V0 Initial Edits
-Added buttons to change to four different emotions (happy, sad, mad, party)
-Added pages for each emotion and sprite/background changes color depending on emotion that is chosen
+# Ducks with Emotions
+Choose from the four buttons at the bottom of the screen to choose how you are feeling today. Music for each feeling is provided in hopes to make you feel happier when you are feeling down! It's also fun to see a little duck on your screen so that you can relate to your duck's emotions.
